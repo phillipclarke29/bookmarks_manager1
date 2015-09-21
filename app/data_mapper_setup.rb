@@ -1,4 +1,5 @@
 require 'data_mapper'
+require_relative '../spec/spec_helper'
 
 # env = ENV['RACK_ENV'] || 'development'
 
